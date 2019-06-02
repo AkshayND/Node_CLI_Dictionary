@@ -7,7 +7,7 @@ Command Line Dictionary made on NodeJS.
 3. Open Command Prompt and Go to the extracted folder.
 4. Run **`npm install`**
 5. Run **`npm start`**
-6. Run **`npm start -g`**
+6. Run **`npm install -g`**
 7. Run **`dict --help`**
 
 ## Commands:
